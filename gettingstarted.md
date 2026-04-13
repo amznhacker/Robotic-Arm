@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Unitree Z1 Documentation
-nav_order: 1
+title: Getting started
+nav_order: 2
 ---
 
 # Unitree Z1 Documentation
