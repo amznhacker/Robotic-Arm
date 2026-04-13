@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SDK Introduction
-nav_order: 2
+nav_order: 3
 ---
 
 # Introduction to SDK
