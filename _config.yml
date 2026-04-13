@@ -1,3 +1,14 @@
-# _config.yml
+title: Unitree Z1 Documentation
+description: Technical documentation for the Unitree Z1 robotic arm
 
-remote_theme: "jekyll/minima@1e8a445"
+theme: just-the-docs
+
+url: ""
+
+aux_links:
+  GitHub Repo: https://github.com/YOUR_USERNAME/YOUR_REPO
+
+color_scheme: light
+
+plugins:
+  - jekyll-remote-theme
