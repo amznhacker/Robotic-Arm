@@ -1,14 +1,9 @@
 title: Unitree Z1 Documentation
 description: Technical documentation for the Unitree Z1 robotic arm
-
-theme: just-the-docs
-
+remote_theme: just-the-docs/just-the-docs
 url: ""
-
 aux_links:
   GitHub Repo: https://amznhacker.github.io/Robotic-Arm/
-
 color_scheme: light
-
 plugins:
   - jekyll-remote-theme
