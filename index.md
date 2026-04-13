@@ -10,19 +10,6 @@ This documentation covers setup, operation, and technical reference for the Unit
 
 ---
 
-## Sections (coming soon)
-
-- Introduction
-- Before Powering On
-- Setup
-- Technical Parameters
-- SDK Operation
-- Environment
-- Keyboard
-- Abnormalities
-
----
-
 ## Packing List
 
 | Type | Quantity | Note |
