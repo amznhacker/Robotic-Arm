@@ -1,18 +1,25 @@
 ---
-layout: page
+layout: home
 title: Unitree Z1 Documentation
+nav_order: 1
 ---
 
-## Documentation
+# Unitree Z1 Documentation
 
-- [Introduction](introduction.md)
-- [Before Powering On](poweron.md)
-- [Setup](setup.md)
-- [Technical Parameters](technicalparameters.md)
-- [SDK Operation](sdkoperation.md)
-- [Environment](environment.md)
-- [Keyboard](keyboard.md)
-- [Abnormalities](abnormalities.md)
+This documentation covers setup, operation, and technical reference for the Unitree Z1 robotic arm.
+
+---
+
+## Sections (coming soon)
+
+- Introduction
+- Before Powering On
+- Setup
+- Technical Parameters
+- SDK Operation
+- Environment
+- Keyboard
+- Abnormalities
 
 ---
 
@@ -34,14 +41,14 @@ title: Unitree Z1 Documentation
 
 ## Installation of Robotic Arm
 
-When fixing the robotic arm, design the platform based on the base hole pattern and your environment.
+The robotic arm must be mounted on a rigid platform capable of handling both static and dynamic loads.
 
-The platform must support:
-- Static load (weight of the arm)
-- Dynamic forces during acceleration
+Requirements:
+- Must support full system weight
+- Must resist acceleration forces during operation
 
-Use four **M6 bolts** and a hex wrench.
+Use four **M6 bolts** for mounting.
 
-Included mounting options:
+Included hardware:
 - Fixing plates  
 - G clips for desktop mounting
