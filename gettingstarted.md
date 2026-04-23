@@ -44,3 +44,5 @@ Included hardware:
 
 ![Robotic Arm](Assets/arm_xianlan.jpg)
 
+![Robotic Arm](Assets/arm_install.jpg)
+
