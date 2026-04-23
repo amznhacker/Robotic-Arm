@@ -35,14 +35,13 @@ Requirements:
 - Must resist acceleration forces during operation
 
 Use four **M6 bolts** for mounting.
-![Installation Diagram of Robotic Arm Base](Assets/arm_install.jpg)
+![Installation Diagram of Robotic Arm Base](Assets/arm_buttom.png)
 
 Included hardware:
 - Fixing plates  
 - G clips for desktop mounting
 
-![Robotic Arm](Assets/arm_buttom.png)
-
+![Robotic Arm](Assets/arm_install.jpg)
 ![Robotic Arm](Assets/arm_xianlan.jpg)
 
 
