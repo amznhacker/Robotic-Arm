@@ -35,7 +35,7 @@ J6 	[1, 0, 0] 	[-0.0128, 0, 0.1685]
 
 
 ## Cartesian coordinate
-
+![Cartesian Coordinate](Assets/cartesian_example.jpg)
 ## Flange
 
 Where the absolute initial position of the gripper loading plane (the J6 end plane) is [0,049, 0, 0.1605]
