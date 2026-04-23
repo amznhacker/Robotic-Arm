@@ -41,3 +41,6 @@ Included hardware:
 - G clips for desktop mounting
 
 ![Robotic Arm](Assets/arm_buttom.png)
+
+![Robotic Arm](Assets/arm_xianlan.jpg)
+
