@@ -42,13 +42,13 @@ Included hardware:
 - G clips for desktop mounting
 
 ![Robotic Arm](Assets/arm_install.jpg)
-Cable Connection
-There are two main types of robotic arm cables: power supply cables and telecommunication cables. The connector of the power supply cable of the robotic arm has a mistake-proof function, and the power supply cable can be inserted into the power supply port of the robotic arm as shown in the figure below.
+### Cable Connection
+There are two main types of robotic arm cables: power supply cables and telecommunication cables.
+The connector of the power supply cable of the robotic arm has a mistake-proof function, and the power supply cable can be inserted into the power supply port of the robotic arm as shown in the figure below.
 
 Note
-The main network port is used to control the robot, and the auxiliary network port is used to change the default IP address. The two should not be mixed.
-
-The power supply is not hot-swappable.
+- The main network port is used to control the robot, and the auxiliary network port is used to change the default IP address. The two should not be mixed.
+- The power supply is not hot-swappable.
 
 
 ![Robotic Arm](Assets/arm_xianlan.jpg)
