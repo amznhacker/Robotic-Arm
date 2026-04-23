@@ -39,3 +39,5 @@ Use four **M6 bolts** for mounting.
 Included hardware:
 - Fixing plates  
 - G clips for desktop mounting
+
+![Robotic Arm](Assets/arm_buttom.png)
