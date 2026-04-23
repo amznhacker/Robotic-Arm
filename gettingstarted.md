@@ -35,6 +35,7 @@ Requirements:
 - Must resist acceleration forces during operation
 
 Use four **M6 bolts** for mounting.
+![Installation Diagram of Robotic Arm Base](Assets/arm_install.jpg)
 
 Included hardware:
 - Fixing plates  
@@ -44,5 +45,5 @@ Included hardware:
 
 ![Robotic Arm](Assets/arm_xianlan.jpg)
 
-![Robotic Arm](Assets/arm_install.jpg)
+
 
