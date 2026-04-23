@@ -21,6 +21,7 @@ nav_order: 4
 ![Joint Ranges](Assets/range.png)
 ## Coordinate
 Joint Coordinate 
+~[Joint Coordinate](Assets/z1_arm_coordinate.png)
 
 The serial numbers of its joints start from J1 and increase to J6 one by one. In the above figure, key + represents the positive direction of the joint rotation, and key - represents the negative direction.
 
