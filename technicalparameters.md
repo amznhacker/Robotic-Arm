@@ -18,7 +18,7 @@ nav_order: 4
 | Programming |	c++ |
 
 ## Joints ranges
-
+![Joint Ranges](Assets/range.png)
 ## Coordinate
 Joint Coordinate 
 
