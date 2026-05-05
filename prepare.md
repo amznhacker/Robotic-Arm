@@ -41,7 +41,6 @@ The above method is to change the IP temporarily, you can also change the IP of 
 ```
 sudo vim /etc/network/interfaces
 ```
-# Test
 Add the following text to the interfaces file opened above.
 
 ```
