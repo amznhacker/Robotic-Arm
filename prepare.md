@@ -5,21 +5,25 @@ nav_order: 4
 ---
 
 
-# Before powering on
+# Before Powering On
+
 ## Zero Position
 
-Make sure that the z1_ctrl program is turned off before power on the robotic arm, otherwise there may be danger. And let the robotic arm stay in zero position. The zero position of the robotic arm is as shown in the figure below. The lines on both sides of the joint gaps of J1 and J6 correspond exactly, and the other joints can be placed in order.
+> ⚠️ **Warning:** Make sure the `z1_ctrl` program is turned off before powering on the robotic arm, otherwise there may be danger.
 
+Position the robotic arm in the zero position before powering on (see figure below). In zero position, the lines on both sides of the joint gaps of J1 and J6 correspond exactly, and the remaining joints can be placed in order.
 
+Once powered on successfully:
+- **Green light** — steady on
+- **Blue light** — flashes once after self-check passes
 
-When the device is powered on successfully, the green light is steady on, and the blue light will flash once the self-check passes.
+> 📝 **Note:** Each joint must be returned to zero position before every use, so that the theoretical zero position in the control algorithm coincides with the actual mechanical zero position.
 
-It should be noted that each joint of the robotic arm should be turned to the zero position before use every time, so that the theoretical zero position in the control algorithm coincides with the actual mechanical zero position. In addition, the black and white power cord of the motor at the end of the robotic arm has DC24V power supply. If it is not needed, be sure to wrap the black and white power cord with insulating tape to prevent danger such as short circuit.
-Note
+> ⚡ **Caution:** The black and white power cord of the motor at the end of the arm carries **DC 24V**. If unused, wrap it with insulating tape to prevent short circuit or other hazards.
 
-If the terminal prints ‘Arm Version 3-8’ after executing the ‘z1_Ctrl -v’, it’s allowed to power on the robot in any position.
+---
 
-And the first thing when power on is to press ‘~’ key or execute ‘backtostart’.
+> 📝 **Note:** If the terminal prints `Arm Version 3-8` after running `z1_Ctrl -v`, the robot may be powered on in any position. In this case, the first action after power on is to press the **`~`** key or execute `backtostart`.
 
 ## Network configuration
 The default IP address of the robotics arm is 192.168.123.110. The users need to change the IP of the PC before control the robot. 
