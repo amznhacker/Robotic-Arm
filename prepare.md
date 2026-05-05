@@ -49,11 +49,17 @@ iface enpxxx inet static
 address 192.168.123.162
 netmask 255.255.255.0
 ```
-## Change the default IP address
 In this case, you can run the ping 192.168.123.110 command to check whether the connection with the robotic arm is normal.
+
+## Change the default IP address
+Insert the telecommunication cable in the auxiliary network port of the robot arm,
+then execute z1_controller/unitreeArmTools.py in a terminal and enter command as prompted.
+
+After that, power-on again.
 
 ## Singular Position
 When the robotic arm is in a singular position, the degrees of freedom will degenerate and it will make the angular velocity of some joints to be infinite, and the robotic will be at the risk of losing control.
 
 It is recommended to run the robotic arm to the forward point after power-on to avoid this area.
-[back](./)
+
+![SIngular Position](Assets/singularposition.jpg)
