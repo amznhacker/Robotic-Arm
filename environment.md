@@ -1,5 +1,5 @@
 ---
-layout: howto
+layout: home
 title: Environment Construction
 nav_order: 5
 ---
