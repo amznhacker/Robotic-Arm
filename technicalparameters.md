@@ -25,14 +25,14 @@ Joint Coordinate
 
 The serial numbers of its joints start from J1 and increase to J6 one by one. In the above figure, key + represents the positive direction of the joint rotation, and key - represents the negative direction.
 
-## Joint 	ω 	υ
-J1 	[0, 0, 1] 	[0, 0, 0.065]
-J2 	[0, 1, 0] 	[0, 0, 0.1115]
-J3 	[0, 1, 0] 	[-0.35, 0. 0.1115]
-J4 	[0, 1, 0] 	[-0.132, 0, 0.1685]
-J5 	[0, 0, 1] 	[-0.06, 0, 0.1685]
-J6 	[1, 0, 0] 	[-0.0128, 0, 0.1685]
-
+| Joint | ω | υ |
+|-------|---|---|
+| J1 | [0, 0, 1] | [0, 0, 0.065] |
+| J2 | [0, 1, 0] | [0, 0, 0.1115] |
+| J3 | [0, 1, 0] | [-0.35, 0, 0.1115] |
+| J4 | [0, 1, 0] | [-0.132, 0, 0.1685] |
+| J5 | [0, 0, 1] | [-0.06, 0, 0.1685] |
+| J6 | [1, 0, 0] | [-0.0128, 0, 0.1685] |
 
 ## Cartesian coordinate
 ![Cartesian Coordinate](Assets/cartesian_example.jpg)
