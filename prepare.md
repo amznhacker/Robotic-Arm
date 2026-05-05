@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDK Introduction
+title: Prepare before powering on
 nav_order: 4
 ---
 
