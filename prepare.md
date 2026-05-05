@@ -1,6 +1,10 @@
 ---
 layout: default
+title: SDK Introduction
+nav_order: 4
 ---
+
+
 # Before powering on
 ## Zero Position
 
