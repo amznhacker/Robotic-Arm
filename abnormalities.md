@@ -1,7 +1,8 @@
 ---
 layout: default
+title: SDK Introduction
+nav_order: 6
 ---
-
 
 # Common Abnormalities
 ## Vibration of Robotic Arm
