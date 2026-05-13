@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SDK Introduction
+title: Common Abnormalities
 nav_order: 6
 ---
 
