@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Getting started
+title: Driver Setup
 nav_order: 3
 ---
 
