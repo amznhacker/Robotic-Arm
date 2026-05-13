@@ -1,3 +1,9 @@
+---
+layout: home
+title: Getting started
+nav_order: 3
+---
+
 ### What Is a Driver?
 
 A **driver** is the lowest-level software component that communicates directly with hardware (or simulated hardware) through its native control interface.
