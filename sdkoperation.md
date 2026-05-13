@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SDK Introduction
-nav_order: 5
+nav_order: 8
 ---
 
 # Unitree Z1 Setup & Operation Guide
