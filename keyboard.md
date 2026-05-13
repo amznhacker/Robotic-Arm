@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Keyboard
+nav_order: 4
 ---
 
 # Keyboard Control
