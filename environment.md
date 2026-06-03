@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Environment Construction
 nav_order: 5
 ---
