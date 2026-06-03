@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Driver Setup
 nav_order: 3
 ---
